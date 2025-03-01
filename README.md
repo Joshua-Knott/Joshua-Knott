@@ -1,5 +1,5 @@
 ## Hi there 👋, My name is Joshua Knott
-## I a second year computer science student at TU Dublin
+## I am a second year computer science student at TU Dublin
 
 
 <!--
